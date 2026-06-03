@@ -15,7 +15,7 @@ const CONFIG = {
 
   // URL backend setelah deploy ke Railway
   // Ganti ini dengan URL Railway kamu!
-  PRODUCTION_API_URL: 'https://GANTI-DENGAN-URL-RAILWAY-KAMU.up.railway.app/api',
+  PRODUCTION_API_URL: 'https://backend-phunk-film-production.up.railway.app/api',
 };
 
 // Deteksi otomatis: jika buka dari localhost → pakai dev URL
